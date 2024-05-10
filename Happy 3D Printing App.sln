@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy 3D Printing App", "Happy 3D Printing App\Happy 3D Printing App.csproj", "{8765857F-5EA7-4308-B91E-72C5EE4F3FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8765857F-5EA7-4308-B91E-72C5EE4F3FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8765857F-5EA7-4308-B91E-72C5EE4F3FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8765857F-5EA7-4308-B91E-72C5EE4F3FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8765857F-5EA7-4308-B91E-72C5EE4F3FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFE8D82-E3C6-401C-94EF-F0850ED90097}
+	EndGlobalSection
+EndGlobal
